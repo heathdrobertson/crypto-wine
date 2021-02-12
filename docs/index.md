@@ -1,4 +1,4 @@
-#TetonBlocks
+# TetonBlocks
 
 ## Crypto & Wine Agenda
 __Feb 12__
