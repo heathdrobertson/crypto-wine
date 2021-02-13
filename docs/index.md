@@ -1,5 +1,5 @@
 # &#129531; The Rough Draft
-__TetonBlocks Blog - Crypto Crew__
+__TetonBlocks - Crypto Crew Blog__
 
 
 ## How To

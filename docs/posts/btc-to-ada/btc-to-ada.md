@@ -1,5 +1,8 @@
 # &#129531; The Rough Draft
-__TetonBlocks Blog - Crypto Crew__
+__TetonBlocks - Crypto Crew Blog__
+
+
+[Home](http://heathdrobertson.github.com/tetonblocks-crypto)
 
 
 # Coming Soon
@@ -8,7 +11,7 @@ __TetonBlocks Blog - Crypto Crew__
 
 
 ---
-![TetonBlocks Logo](https://raw.githubusercontent.com/heathdrobertson/tetonblocks-crypto/main/docs/assets/images/tetonblocks_logo_banner.png)
+![TetonBlocks Logo](./assets/images/tetonblocks_logo_banner.png)
 
 **Exploring The Public Blockchain Technological Frontier.**
 

@@ -1,3 +1,6 @@
+# &#129531; The Rough Draft
+__TetonBlocks - Crypto Crew Blog__
+
 # Crypto Noobie Guide
 
 __By: Heath Robertson__
@@ -96,15 +99,6 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 ![Jitsi Meet](./images/01b.jpg)
 
 
----
-![TetonBlocks Logo](../../assets/images/tetonblocks_logo_banner@3x.png)
-
-**Exploring The Public Blockchain Technological Frontier.**
-
-- Twitter: [https://twitter.com/TetonBlocks](https://twitter.com/TetonBlocks)
-- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
-
----
 [Brave]: https://try.bravesoftware.com/quk420/
 [LastPass]: https://lastpass.com/misc_download2.php 
 [LastPass Authenticator]: https://lastpass.com/auth/
@@ -114,3 +108,13 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 [Daedalus]: https://daedaluswallet.io/en/download/
 [Yoroi]: https://yoroi-wallet.com/#/
 [Jitsi Meet]: ./images/01b.jpg
+
+
+
+---
+![TetonBlocks Logo](./assets/images/tetonblocks_logo_banner.png)
+
+**Exploring The Public Blockchain Technological Frontier.**
+
+- Twitter: [https://twitter.com/TetonBlocks](https://twitter.com/TetonBlocks)
+- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
