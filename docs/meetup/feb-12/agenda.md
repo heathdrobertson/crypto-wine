@@ -1,4 +1,6 @@
-# Crypto & Wine Agenda
+# TetonBlocks Crypto Crew
+
+## Crypto & Wine Agenda
 __Feb 12__
 
 
