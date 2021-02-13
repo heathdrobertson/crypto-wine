@@ -12,7 +12,7 @@ __TetonBlocks Blog - Crypto Crew__
 
 
 ---
-![TetonBlocks Logo](https://raw.githubusercontent.com/heathdrobertson/tetonblocks-crypto/main/docs/assets/images/tetonblocks_logo_banner.png)
+![TetonBlocks Logo](./assets/images/tetonblocks_logo_banner.png)
 
 **Exploring The Public Blockchain Technological Frontier.**
 
