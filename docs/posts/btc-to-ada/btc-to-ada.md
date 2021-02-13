@@ -2,13 +2,9 @@
 __TetonBlocks Blog - Crypto Crew__
 
 
-## How To
-- Start here: [Crypto Noobie](./posts/crypto-noobie/crypto-noobie.md) 
-- [Bitcoin to ADA](./posts/)
+# Coming Soon
 
-
-## Meetups
-- Meetup [Feb 12](./meetup/feb-12/agenda.md)
+- Instructions...
 
 
 ---
