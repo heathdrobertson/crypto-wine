@@ -7,6 +7,9 @@ __By: Heath Robertson__
 	- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
 
 ---
+> THIS IS AN IN PROGRESS DOCUMENT!! NOT ALL STEPS ARE COMPLETE.
+---
+
 
 # Learn More About Crypto
 
@@ -93,7 +96,13 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 ![Jitsi Meet](./images/01b.jpg)
 
 
+---
+![TetonBlocks Logo](../../assets/images/tetonblocks_logo_banner@3x.png)
 
+**Exploring The Public Blockchain Technological Frontier.**
+
+- Twitter: [https://twitter.com/TetonBlocks](https://twitter.com/TetonBlocks)
+- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
 
 ---
 [Brave]: https://try.bravesoftware.com/quk420/
@@ -104,4 +113,4 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 [XBT]: https://support.kraken.com/hc/en-us/articles/360001206766-Bitcoin-currency-code-XBT-vs-BTC#:~:text=%22XBT%22%20is%20a%20new%20abbreviation,legitimacy%20as%20an%20international%20currency.&text=The%20standard%20dictates%20that%20if,%E2%80%9D%2C%20hence%20%22XBT%22.
 [Daedalus]: https://daedaluswallet.io/en/download/
 [Yoroi]: https://yoroi-wallet.com/#/
-![Jitsi Meet]: ./images/01b.jpg
+[Jitsi Meet]: ./images/01b.jpg
