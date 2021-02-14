@@ -10,8 +10,8 @@ __Feb 12__
 1. Get [Test Bitcoin] from a faucet.
 1. Practice sending Test Bitcoin
     1. Post your [Bitcoin Testnet Wallet] address in the TetonBlocks Telegram group.
-1. Send Bitcoin from your Coinbase wallet to your Kraken wallet.
-1. Convert Bitcoin to Cardano in Kraken. 
+1. Send Bitcoin from your Coinbase wallet to your [Kraken] wallet.
+1. Convert Bitcoin to Cardano in [Kraken]. 
 1. Last Pass password manager tutorial.
 1. Last Pass Authenticator - Two Factor Authentication (2FA)
 
