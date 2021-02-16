@@ -1,3 +1,12 @@
+![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
+
+# Set Up Staking
+**Tue-12:54PM 16-02-2021**
+
+## TLDR
+
+[Staking] is an alternative consensus mechanism (way to verify and secure transactions) that allows the [ADA] coin holders to secure the [Cardano] public blockchain with minimal energy consumption and setup. [Cardano] uses an incentivized staking mechanism to ensure the longevity and health of the network and ecosystem. Shelley is the upgrade which enabled [Cardano] staking.
+
 # [Staking] to TETON [Cardano] Stake Pool
 
 __Help me strengthen and make the [Cardano] public blockchain more secure by
@@ -5,7 +14,6 @@ delegating your stake to the [TetonBlocks] TETON pool.__
 
 **What is [Cardano] [Staking]?**
 
-[Staking] is an alternative consensus mechanism (way to verify and secure transactions) that allows the [ADA] coin holders to secure the [Cardano] public blockchain with minimal energy consumption and setup. [Cardano] uses an incentivized staking mechanism to ensure the longevity and health of the network and ecosystem. Shelley is the upgrade which enabled [Cardano] staking.
 
 
 NOTES:
@@ -63,3 +71,13 @@ to the[TetonBlocks] **TETON** pool.
 [Yoroi Android]: https://play.google.com/store/apps/details?id=com.emurgo&hl=en
 [Yoroi]: https://yoroi-wallet.com/#/
 [Kraken]: https://r.kraken.com/QRqMz
+
+
+---
+## [TetonBlocks.io](https://tetonblocks.io)
+### By: Heath Robertson
+
+
+[Home](../../index.md) | [Twitter](https://twitter.com/TetonBlocks) | [Telegram](https://t.me/TetonPool)
+
+![Footer Image](../../assets/images/tetonblocks_logo_banner.png)

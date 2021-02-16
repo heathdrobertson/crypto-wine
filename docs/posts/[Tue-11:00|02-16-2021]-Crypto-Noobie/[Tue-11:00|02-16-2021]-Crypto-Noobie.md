@@ -1,13 +1,13 @@
-# &#129531; The Rough Draft
-__TetonBlocks - Crypto Crew Blog__
+![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
 
-# Crypto Noobie Guide
+# Crypto Noobie
+**Tue-11:00PM 02-16-2021**
 
-__By: Heath Robertson__
-- Please join me:
-	- Telegram: [https://t.me/HeathDRobertson](https://t.me/HeathDRobertson)
-	- Twitter: [https://twitter.com/HeathDRobertson](https://twitter.com/HeathDRobertson)
-	- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
+## TLDR
+
+
+If you are interested in participating in the digital asset, crypto, blockchain world but don't quite know where to begin, this is the place to start.
+
 
 ---
 > THIS IS AN IN PROGRESS DOCUMENT!! NOT ALL STEPS ARE COMPLETE.
@@ -16,7 +16,7 @@ __By: Heath Robertson__
 
 # Learn More About Crypto
 
-[Kraken] has created a great resource if you would like to explor crypto
+[Kraken] has created a great resource if you would like to explore crypto
 currencies and blockchain in greater detail.
 [kraken.com/learn](https://www.kraken.com/learn)
 ## Getting Started
@@ -45,6 +45,21 @@ To use and support public blockchains to invest and earn cryptographic currencie
 11. Delegate your stake in your [Daedalus] or [Yoroi] wallet to the TETON Stake
     Pool.
 
+
+### What it is used for:
+- [Brave] Browser - Secure blockchain wallet enabled web browser, that you can earn crypto by viewing ads.
+- Wallet - A digital vault, giving you access and functionality to interact with blockchains.
+    - Exchanges provide limited wallet services, and they control the access to your funds.
+- Exchange - A crypto currency broker.
+- [LastPass] - A secure password storage vault.
+- [LastPass Authenticator] - A secure two-factor authentication by generating 6-digit, time-based passcodes.
+- Two-Factor Authentication (2FA) - Is an extra layer of protection used to ensure the security of online accounts beyond just a username and password.
+- [Coinbase] - A crypto currency and digital asset exchange.
+- [Kraken] - A crypto currency and digital asset exchange.
+    - Why 2 exchanges?  Because they provide access to different crypto currencies.
+- Bitcoin - The original crypto, quickly becoming a global reserve asset.
+- Cardano - A public blockchain, still in development, that will revolutionize how the world does business and governance.
+- Staking - Mining (minting) crypto on a public blockchain. It can be thought of as earning interest on your money.
 ---
 
 ## Brave Browser | A Faster Safer Internet.
@@ -118,3 +133,13 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 
 - Twitter: [https://twitter.com/TetonBlocks](https://twitter.com/TetonBlocks)
 - TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
+
+
+---
+## [TetonBlocks.io](https://tetonblocks.io)
+### By: Heath Robertson
+
+
+[Home](../../index.md) | [Twitter](https://twitter.com/TetonBlocks) | [Telegram](https://t.me/TetonPool)
+
+![Footer Image](../../assets/images/tetonblocks_logo_banner.png)
