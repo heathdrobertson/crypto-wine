@@ -1,7 +1,7 @@
 ![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
 
 # Crypto Noobie
-**Tue-11:00PM 02-16-2021**
+**Thur-11:00AM 02-11-2021**
 
 ## TLDR
 

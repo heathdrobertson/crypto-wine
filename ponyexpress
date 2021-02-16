@@ -9,7 +9,7 @@ from pytz import timezone
 
 
 now = datetime.now(tz=timezone(f'America/Denver'))
-default_title = now.strftime(f"New-Post-[%a-%H:%M|%m-%d-%Y]")
+default_title = now.strftime(f"New-Post-[%a-%H-%M-%m-%d-%Y]")
 cwd = Path(os.getcwd())
 posts_dir = Path(f"{cwd}/docs/posts")
 link_posts_dir = Path('./posts')
@@ -36,7 +36,7 @@ def update_index():
 
 def post(title):
 
-    full_title = now.strftime(f"[%a-%H:%M|%m-%d-%Y]-{title.replace(' ', '-')}")
+    full_title = now.strftime(f"[%a-%H-%M-%m-%d-%Y]-{title.replace(' ', '-')}")
     post_dir_name = f"{full_title}"
     os.makedirs(f"{posts_dir}/{post_dir_name}/images")
     post_file = f"{posts_dir}/{post_dir_name}/{full_title}.md"
