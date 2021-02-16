@@ -12,6 +12,7 @@ now = datetime.now(tz=timezone(f'America/Denver'))
 default_title = now.strftime(f"New-Post-[%a-%H:%M|%m-%d-%Y]")
 cwd = Path(os.getcwd())
 posts_dir = Path(f"{cwd}/docs/posts")
+link_posts_dir = Path('./posts')
 
 
 def update_index():
@@ -25,7 +26,7 @@ def update_index():
     for i in post_dirs:
 
         if os.path.isdir(f"{posts_dir}/{i}"):
-            index.write(f"- [{i}]({posts_dir}/{i}/{i}.md)\n")
+            index.write(f"- [{i}]({link_posts_dir}/{i}/{i}.md)\n")
 
     index.write(f"{footer.read()}")
 

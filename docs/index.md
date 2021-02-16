@@ -9,12 +9,11 @@
 ## Posts
 
 
-- [[Tue-12:59|02-16-2021]-BTC-to-ADA](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/[Tue-12:59|02-16-2021]-BTC-to-ADA/[Tue-12:59|02-16-2021]-BTC-to-ADA.md)
-- [[Tue-12:05|16-02-2021]-Crypto-Noobie](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/[Tue-12:05|16-02-2021]-Crypto-Noobie/[Tue-12:05|16-02-2021]-Crypto-Noobie.md)
-- [btc-to-ada](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/btc-to-ada/btc-to-ada.md)
-- [setup-stake](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/setup-stake/setup-stake.md)
-- [[Tue-12:30|16-02-2021]-Meetup-Feb-12](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/[Tue-12:30|16-02-2021]-Meetup-Feb-12/[Tue-12:30|16-02-2021]-Meetup-Feb-12.md)
-- [[Tue-12:54|16-02-2021]-Set-Up-Staking](/home/toilethill/Development/github/tetonblocks-crypto/docs/posts/[Tue-12:54|16-02-2021]-Set-Up-Staking/[Tue-12:54|16-02-2021]-Set-Up-Staking.md)
+- [[Tue-12:54|02-16-2021]-Set-Up-Staking](posts/[Tue-12:54|02-16-2021]-Set-Up-Staking/[Tue-12:54|02-16-2021]-Set-Up-Staking.md)
+- [[Tue-12:59|02-16-2021]-BTC-to-ADA](posts/[Tue-12:59|02-16-2021]-BTC-to-ADA/[Tue-12:59|02-16-2021]-BTC-to-ADA.md)
+- [[Tue-11:00|02-16-2021]-Crypto-Noobie](posts/[Tue-11:00|02-16-2021]-Crypto-Noobie/[Tue-11:00|02-16-2021]-Crypto-Noobie.md)
+- [[Tue-13:22|02-16-2021]-Telegram-Instant-View](posts/[Tue-13:22|02-16-2021]-Telegram-Instant-View/[Tue-13:22|02-16-2021]-Telegram-Instant-View.md)
+- [[Sat-6:00|02-12-2021]-Meetup-Feb-12](posts/[Sat-6:00|02-12-2021]-Meetup-Feb-12/[Sat-6:00|02-12-2021]-Meetup-Feb-12.md)
 
 
 ---
