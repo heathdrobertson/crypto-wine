@@ -8,8 +8,15 @@ from datetime import datetime
 from pytz import timezone
 
 
+def get_stamped(d):
+    d_no_sec = d.replace(second=0, microsecond=0)
+    stamp = d_no_sec.timestamp()
+    return int(stamp)
+
 now = datetime.now(tz=timezone(f'America/Denver'))
-default_title = now.strftime(f"New-Post-[%a-%H-%M-%m-%d-%Y]")
+stamp = get_stamped(now)
+default_title = now.strftime(f"New-Post-[{stamp}]")
+
 cwd = Path(os.getcwd())
 posts_dir = Path(f"{cwd}/docs/posts")
 link_posts_dir = Path('./posts')
@@ -21,9 +28,10 @@ def update_index():
     footer = open(f"{cwd}/docs/assets/templates/index_footer.md", 'r')
 
     index.write(f"{header.read()}")
-    post_dirs = os.listdir(posts_dir)
     print(posts_dir)
-    for i in post_dirs:
+    post_dirs = os.listdir(posts_dir)
+    posts_sorted = sorted(post_dirs, reverse=True)
+    for i in posts_sorted:
 
         if os.path.isdir(f"{posts_dir}/{i}"):
             index.write(f"- [{i}]({link_posts_dir}/{i}/{i}.md)\n")
@@ -36,7 +44,7 @@ def update_index():
 
 def post(title):
 
-    full_title = now.strftime(f"[%a-%H-%M-%m-%d-%Y]-{title.replace(' ', '-')}")
+    full_title = now.strftime(f"[{stamp}]-{title.replace(' ', '-')}")
     post_dir_name = f"{full_title}"
     os.makedirs(f"{posts_dir}/{post_dir_name}/images")
     post_file = f"{posts_dir}/{post_dir_name}/{full_title}.md"

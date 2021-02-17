@@ -1,3 +1,12 @@
+![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
+
+# Telegram Instant View
+**Wed-09:51AM 02-17-2021**
+
+## TLDR
+
+
+```bash
 ~version: "2.0"
 
 ?path: /tetonblocks-crypto/.+
@@ -52,4 +61,15 @@ $related:  //div[has-class("tl_blog_bottom_blog")]
 <h4>:      $related//a[has-class("side_blog_header")]
 <related>: $related
 @append_to($body)
+```
 
+
+
+---
+## [TetonBlocks.io](https://tetonblocks.io)
+### By: Heath Robertson
+
+
+[Home](../../index.md) | [Twitter](https://twitter.com/TetonBlocks) | [Telegram](https://t.me/TetonPool)
+
+![Footer Image](../../assets/images/tetonblocks_logo_banner.png)

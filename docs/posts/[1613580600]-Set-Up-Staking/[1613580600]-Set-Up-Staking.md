@@ -1,7 +1,7 @@
 ![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
 
 # Set Up Staking
-**Tue-12:54PM 16-02-2021**
+**Wed-09:50AM 02-17-2021**
 
 ## TLDR
 

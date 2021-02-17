@@ -1,7 +1,7 @@
 ![Cover Photo](../../assets/images/tetonblocks_blog_tetonblocks-post-cover.jpg)
 
 # Crypto Noobie
-**Thur-11:00AM 02-11-2021**
+**Wed-09:36AM 02-17-2021**
 
 ## TLDR
 
@@ -125,14 +125,6 @@ Brave Together's phone app is called Jitsi and is required to participate in a v
 [Jitsi Meet]: ./images/01b.jpg
 
 
-
----
-![TetonBlocks Logo](./assets/images/tetonblocks_logo_banner.png)
-
-**Exploring The Public Blockchain Technological Frontier.**
-
-- Twitter: [https://twitter.com/TetonBlocks](https://twitter.com/TetonBlocks)
-- TetonBlocks Telegram group: [https://t.me/TetonPool](https://t.me/TetonPool)
 
 
 ---
